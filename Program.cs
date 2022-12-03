@@ -28,23 +28,24 @@ void PrintTriangle(int[,] triangle)
   {
     for (int j = 0; j < row; j++)
     {
-      if (triangle[i, j] % 2 != 0)
-        Console.Write($"{triangle[i, j],4}"); //4 -кол-во пробелов между цифрами
-      else  Console.Write("    ");
+      if (triangle[i, j] % 2 != 0) Console.Write("*");
+       // Console.Write($"{triangle[i, j],4}"); //4 -кол-во пробелов между цифрами
+         // Console.Write("*");
+      else  Console.Write(" ");
     }
     Console.WriteLine();
   }
 }
 
-int[] GetKoeff(int[,] tr, int pow) //выборка коэффициентов для создания многочлена
-{
-  int[] row = new int[pow + 1];
-  for (int i = 0; i <= pow; i++)
-  {
-    row[i] = tr[pow, i];
-  }
-  return row;
-}
+//int[] GetKoeff(int[,] tr, int pow) //выборка коэффициентов для создания многочлена
+//{
+ // int[] row = new int[pow + 1];
+  //for (int i = 0; i <= pow; i++)
+ // {
+ //   row[i] = tr[pow, i];
+ // }
+  //return row;
+//}
 //Клиентский код
 int[,] tr = CreateTriangle(120);
 PrintTriangle(tr);
