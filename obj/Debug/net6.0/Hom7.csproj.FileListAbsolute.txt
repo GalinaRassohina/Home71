@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\резюме\Учеба Аналитика\#C\Hom7\bin\Debug\net6.0\Hom7.exe
+C:\Users\user\Desktop\резюме\Учеба Аналитика\#C\Hom7\bin\Debug\net6.0\Hom7.deps.json
+C:\Users\user\Desktop\резюме\Учеба Аналитика\#C\Hom7\bin\Debug\net6.0\Hom7.runtimeconfig.json
+C:\Users\user\Desktop\резюме\Учеба Аналитика\#C\Hom7\bin\Debug\net6.0\Hom7.dll
+C:\Users\user\Desktop\резюме\Учеба Аналитика\#C\Hom7\bin\Debug\net6.0\Hom7.pdb
+C:\Users\user\Desktop\резюме\Учеба Аналитика\#C\Hom7\obj\Debug\net6.0\Hom7.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\резюме\Учеба Аналитика\#C\Hom7\obj\Debug\net6.0\Hom7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\резюме\Учеба Аналитика\#C\Hom7\obj\Debug\net6.0\Hom7.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\резюме\Учеба Аналитика\#C\Hom7\obj\Debug\net6.0\Hom7.AssemblyInfo.cs
+C:\Users\user\Desktop\резюме\Учеба Аналитика\#C\Hom7\obj\Debug\net6.0\Hom7.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\резюме\Учеба Аналитика\#C\Hom7\obj\Debug\net6.0\Hom7.dll
+C:\Users\user\Desktop\резюме\Учеба Аналитика\#C\Hom7\obj\Debug\net6.0\refint\Hom7.dll
+C:\Users\user\Desktop\резюме\Учеба Аналитика\#C\Hom7\obj\Debug\net6.0\Hom7.pdb
+C:\Users\user\Desktop\резюме\Учеба Аналитика\#C\Hom7\obj\Debug\net6.0\Hom7.genruntimeconfig.cache
+C:\Users\user\Desktop\резюме\Учеба Аналитика\#C\Hom7\obj\Debug\net6.0\ref\Hom7.dll
